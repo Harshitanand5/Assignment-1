@@ -1,0 +1,214 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+header{
+    width: 100%;
+    height: 700px;
+    background: url(./logo.jpg);
+    background-size: 100% 100% ;
+    background-repeat: no-repeat;
+    
+    
+}
+nav{
+   
+   padding-top: 20px;
+    background: linear-gradient(57deg,black,#1e4d92); 
+   padding-left: 400px;
+   box-shadow: 10px 10px 5px #aaaaaa;
+}
+header nav a{
+    color:white;
+    margin-left: 35px;
+    text-decoration: none;    
+}
+header nav a:hover{
+  color:red;
+}
+#headerdiv{
+    height: 200px;
+    width:400px;
+   margin-top: 50px;
+    margin-left: 20px;
+}
+#one{
+    color:white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+   padding-top: 20px;
+}
+#two{
+    color: orange;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left: 10px;
+}
+.sectiondiva{
+    width: 100%;
+    height: 400px;
+    background: rgb(46, 42, 41);
+    margin: auto;
+}
+.sectiondivb{
+    width: 100%;
+    height: 400px;
+    background: rgb(50, 46, 45);
+}
+
+ .heading{
+    text-align: center;
+    color:orange;
+    border-bottom: 1px solid orange;
+}
+ .headingdiv p{
+    color: white;
+    text-align: left;
+    padding:10px;
+}
+.headingdiv h3{
+    color: white;
+    text-align: left;
+    padding:10px;
+}
+
+h2{
+    color:white;
+    text-align:left;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:10px;
+}
+
+.headingdiv{
+    width: 60%;
+   float: right;
+    padding-top: 20px;
+    height:250px
+}
+#about{
+    height: 330px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    flex-direction: row;
+    
+}
+.divedu{
+    height: 280px;
+    width:20%;
+    background-color: rgb(46, 42, 41); 
+    box-shadow: 0 6px 16px rgba(0,0,0,.25)
+}
+.divedu:hover{
+    border-bottom: orange 2px solid;
+}
+#skills{
+    height: 300px;
+}
+.divsk{
+    height: 30px;
+    width:20%;
+    background-color: rgb(50, 46, 45); 
+    box-shadow: 0 6px 16px rgba(0,0,0,.25)
+}
+.divsk:hover{
+    border-bottom: orange 2px solid;
+}
+
+.divlan{
+    width: 30%;
+    border-bottom: orange 2px solid;
+    height:50px;
+    background-color: rgb(46, 42, 41); 
+    box-shadow: 0 6px 16px rgba(0,0,0,.25)
+}
+.divlan:hover{
+    border-bottom: orange 2px solid;
+}
+
+.divp{
+    height: 280px;
+    width:20%;
+    background-color:  rgb(50, 46, 45); 
+    box-shadow: 0 6px 16px rgba(0,0,0,.25)
+}
+.divp:hover{
+    border-bottom: orange 2px solid;
+}
+#certificate{
+    height:600px;
+}
+.divc{
+    height: 200px;
+    width:20%;
+    background-color:  rgb(50, 46, 45); 
+    box-shadow: 0 6px 16px rgba(0,0,0,.25)
+}
+.divc:hover{
+    border-bottom: orange 2px solid;
+}
+#contact{
+    height:250px;
+}
+
+.divco{
+    height: 100px;
+    width:20%;
+    background-color:  rgb(50, 46, 45); 
+    box-shadow: 0 6px 16px rgba(0,0,0,.25)
+}
+.divco p {
+
+    text-align: center;
+}
+.divco p a{
+    text-decoration: none;
+    color:white;
+    font-size: 16px;
+}
+.divco h3{
+    padding: 20px;
+    text-align: center;
+}
+.divco:hover{
+    border-bottom: orange 2px solid;
+}
+.divsk p{
+    text-align: center;
+    padding:10px;
+}
+p{
+    color: white;
+    text-align: center;
+    
+}
+h3{
+    
+        color: white;
+        text-align: Center;
+        
+
+}
+.insidep{
+    padding:20px
+}
+.insideh{
+    padding:20px
+    
+}
+
+
+
+   
+
+   
+
+    
+
+
